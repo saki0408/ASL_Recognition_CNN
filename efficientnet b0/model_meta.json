@@ -1,0 +1,1 @@
+{"target_size": [224, 224], "model_arch": "efficientnetb0", "class_indices": {"a": 0, "b": 1, "c": 2, "d": 3, "del": 4, "e": 5, "f": 6, "g": 7, "h": 8, "i": 9, "j": 10, "k": 11, "l": 12, "m": 13, "n": 14, "nothing": 15, "o": 16, "p": 17, "q": 18, "r": 19, "s": 20, "space": 21, "t": 22, "u": 23, "v": 24, "w": 25, "x": 26, "y": 27, "z": 28}, "imagenet_loaded": false}
