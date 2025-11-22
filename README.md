@@ -11,6 +11,7 @@ This real-time ASL recognition system uses transfer learning through MobileNet V
 
 ### Clone repository
 `git clone https://github.com/saki0408/ASL_Recognition_CNN.git`
+
 `cd ASL_Recognition_CNN`
 
 ### Create virtual environment
